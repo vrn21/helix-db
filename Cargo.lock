@@ -1477,21 +1477,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "helix-lib-example"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "chrono",
- "helix-lib",
- "inventory",
- "serde",
- "serde_json",
- "tracing",
- "tracing-subscriber",
- "uuid",
-]
-
-[[package]]
 name = "helix-macros"
 version = "0.1.7"
 dependencies = [
